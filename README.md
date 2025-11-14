@@ -1,4 +1,6 @@
-#**About me**
+**About me**
+
+
 I am a B.Com in Economics Sciences with Economterics graduate from the North West University and currently persuing an Honours in Business and Financial Analytics at the University of the Free State (UFS).
 
 I am interested in data to provide insights into economic and financial solutions that have an impact. I have academic and project experience in machine learning, anomaly detection, Bayesian networks, sentiment analysis, topic modelling, and econometric analysis — all in applied contexts for decision making.
